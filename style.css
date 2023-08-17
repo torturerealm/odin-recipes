@@ -1,0 +1,29 @@
+/* style.css */
+
+body {
+    background-color: white;
+    text-align: justify;
+    font-size: large;
+    padding-left: 30%;
+    padding-right: 30%;
+}
+
+.front {
+    text-align: center;
+    list-style-position: outside;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+.heading {
+    background-color: beige;
+    text-align: center;
+}
+
+.source {
+    color: gray;
+    font-size: small;
+}
