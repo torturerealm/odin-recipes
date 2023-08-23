@@ -1,4 +1,5 @@
 /* style.css */
+
 html{
     box-sizing: border-box;
 }
@@ -8,15 +9,23 @@ body {
     text-align: justify;
     font-size: 1em;
     border: 5px solid black;
+    margin: 1em 4em 2em;
 }
 
 body.homepage {
     text-align: center;
-    list-style-position: outside;
+}
+
+.recipe-list {
+    display: inline-block;
+    list-style: none;
+    margin: 1em;
+    padding: 1em;
+    border: 2px solid black;
 }
 
 img {
-    width: 100%;
+    width: 40%;
     height: auto;
 }
 
